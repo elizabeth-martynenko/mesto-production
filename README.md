@@ -8,7 +8,14 @@ https://elizabeth-martynenko.github.io/mesto-production/
 
 ## Команды
 
-### Запуск проекта в режиме разработки
-
 ```bash
 npm run dev
+```
+
+```bash
+npm run build
+```
+
+```bash
+npm run deploy
+```
